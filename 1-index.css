@@ -886,6 +886,15 @@ body {
 	display: block;
 }
 
+.github_icon {
+	width: 45px;
+	height: 45px;
+	background: url(images/icon/github.png);
+	background-repeat: no-repeat;
+	background-size: 45px;
+	display: block;
+}
+
 .weixin_icon {
 	width: 45px;
 	height: 45px;
@@ -905,10 +914,6 @@ body {
 }
 
 .weixin_icon:hover + .weixin_img {
-	display: block;
-}
-
-.dingding_icon:hover + .dingding_img {
 	display: block;
 }
 
